@@ -1,0 +1,4 @@
+language: node
+cache: npm
+script:
+  - npm start
